@@ -27,7 +27,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
+</br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 

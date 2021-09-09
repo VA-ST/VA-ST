@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="15"><em> iOS developer at <a href="http://www.enjoei.com.br">enjoei
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="15"><em> iOS developer at enjoei
 <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="15vw"/> <em> computer science student
 <img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="15vw"/> <em>design enthusiast
 <img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="15vw"/> <em> in love with science, tech, math & art

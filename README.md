@@ -49,25 +49,6 @@
 
 <br/>
 
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://anathayna.github.io)](https://anathayna.github.io)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anathaynafranca/)](https://www.linkedin.com/in/anathaynafranca/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anadehavaiana)](https://twitter.com/anadehavaiana)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/anadehavaiana)](https://instagram.com/anadehavaiana)
-<em> ~ projects down here ↓ ~ </a>
-<img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
-
-⭐️ From [Santiago](https://github.com/VA-ST)
-
-<br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -77,4 +58,11 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://anathayna.github.io)](https://anathayna.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anathaynafranca/)](https://www.linkedin.com/in/anathaynafranca/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anadehavaiana)](https://twitter.com/anadehavaiana)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/anadehavaiana)](https://instagram.com/anadehavaiana)
+<em> ~ projects down here ↓ ~ </a>
+<img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
+
+⭐️ From [Santiago](https://github.com/VA-ST)

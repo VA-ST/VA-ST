@@ -1,51 +1,18 @@
-### Hey 👋, I'm Mehdi
+## print(" hi there \\o/ ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.kaggle.com/mehdimabrouki">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
-<br />
-<br />
+<p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> iOS developer at <a href="http://www.enjoei.com.br">enjoei</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> computer science student</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em>design enthusiast</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> in love with science, tech, math & art</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="20vw"/> <em> platform games player</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/> <em> colorful post-it notes lover</em></p>
 
-Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://anathayna.github.io)](https://anathayna.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anathaynafranca/)](https://www.linkedin.com/in/anathaynafranca/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anadehavaiana)](https://twitter.com/anadehavaiana)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/anadehavaiana)](https://instagram.com/anadehavaiana)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&labelColor=1db954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/22prktxbbzv476kqemxclmwri)](https://open.spotify.com/user/22prktxbbzv476kqemxclmwri) <em> ~ projects down here ↓ ~ </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
-
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ From [anathayna](https://github.com/anathayna)

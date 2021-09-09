@@ -4,8 +4,8 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><em> Web Developer,
 <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="40vw"/> <em> Design enthusiast,
-<img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="40vw"/> <em> in love with science, tech, math & art \
-<img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="40vw"/> <em> platform games player.
+<img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="40vw"/> <em> in love with science, tech, math & art. \
+<img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="40vw"/> <em> Platform games player.
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University.\

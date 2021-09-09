@@ -6,8 +6,8 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Youtube as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at (In Work)! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](In Work) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/VA-ST/VA-ST/master/assets/Night-Coding.gif" align="right"/>
 
@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
 
 ### ⚙️ &nbsp;GitHub Analytics
 

@@ -2,6 +2,7 @@
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Web developer </em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> computer science student</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em>design enthusiast</em></p>
@@ -17,10 +18,6 @@
 
 ⭐️ From [Santiago](https://github.com/VA-ST)
 
-
-<h2> Hey there! I'm Aditya.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.

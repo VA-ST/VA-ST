@@ -3,11 +3,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><em> Web Developer,
-<img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> computer science student
-<img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="30vw"/> <em>design enthusiast
-<img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="30vw"/> <em> in love with science, tech, math & art
-<img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="30vw"/> <em> platform games player
-<img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="30vw"/> <em> post-it notes lover
+<img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="40vw"/> <em> computer science student
+<img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="40vw"/> <em>design enthusiast
+<img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="40vw"/> <em> in love with science, tech, math & art
+<img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="40vw"/> <em> platform games player.
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University.\

@@ -51,6 +51,7 @@
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-Web.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/santiagoala/"><img src="https://img.shields.io/badge/-Santiago%20Alaña-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-@VASTsantiago-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-@Usuario-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <!--<a href="https://facebook.com/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>

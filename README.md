@@ -50,9 +50,9 @@
 <a href="https://www.linkedin.com/in/santiagoala/"><img src="https://img.shields.io/badge/-Santiago%20Alaña-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-@Usuario-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<!–– <a href="https://facebook.com/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> ––>
-<!–– <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> ––>
-<!–– <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> ––>
+<a href="https://facebook.com/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> 
 </p>
 
 ⭐️ From [Santiago](https://github.com/VA-ST)
